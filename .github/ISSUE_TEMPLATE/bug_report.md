@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve impulse
+about: Create a report to help us improve Olympus
 title: ''
 labels: bug
 assignees: vingard
@@ -23,7 +23,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**impulse version (press F1 in the bottom right):**
+**Olympus version (press F1 in the bottom right):**
 
 **Lua error**
 If applicable, post the error here in full.
