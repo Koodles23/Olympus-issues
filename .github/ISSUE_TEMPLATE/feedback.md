@@ -1,6 +1,6 @@
 ---
 name: Feedback
-about: Preach about impulse here
+about: Preach about Olympus here
 title: ''
 labels: feedback
 assignees: ''
